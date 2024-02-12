@@ -1,0 +1,28 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border-width: 10px;
+    border-style: solid;
+    border-color: blue;
+    border: 2px solid blue;
+    border-radius:;
+    padding: 1px 2px 3px 4px;
+    margin-l: 100px;
+
+}
+h1{
+
+   width: 150px;
+    height: 100px;
+    background-color: aqua;
+    border-width: 10px;
+    border-style: double;
+    border-color: blueviolet;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
